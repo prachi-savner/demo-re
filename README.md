@@ -1,2 +1,2 @@
-# demo-re
-this is demo repo
+# code diaries
+this is an activity
